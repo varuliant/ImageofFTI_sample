@@ -1,4 +1,5 @@
 QuickScale Software Demo – README
+
 Background
 
 This repository provides a demonstration of the QuickScale (QS) method for estimating the F-layer critical frequency from FTI plots.
